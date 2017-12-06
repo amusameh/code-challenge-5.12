@@ -1,18 +1,4 @@
 
-/*const gallary = document.querySelector('.gallary a');
-
-gallary.addEventListener('click', (e) => {
-	e.preventDefault()
-
-	console.log(e.target)
-});*/
-
-
-/*$('.gallary').on('click', 'a', (e)=>{
-	e.preventDefault();
-})*/
-
-
 var $overlay = $('<div id="overlay"></div>');
 var $image = $("<img>");
 var $caption = $("<p></p>");
